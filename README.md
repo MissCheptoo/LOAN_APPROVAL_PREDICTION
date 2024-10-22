@@ -1,5 +1,5 @@
 # LOAN_APPROVAL_PREDICTION
-This repo contains the Loan Approval Prediction project as part of my data science portfolio. The loan approval prediction model was built using logistic regression to classify whether a loan application would be approved or rejected based on key applicant features such as education status, income, employment status, and loan amount. After hyperparameter tuning, the model's performance improved, with the accuracy increasing from 92% to 94%.
+This repo contains the Loan Approval Prediction project as part of my data science portfolio. The loan approval prediction model was built using logistic regression to classify whether a loan application would be approved or rejected based on key applicant features such as education status, income, employment status, and loan amount. After hyperparameter tuning, the model's performance improved, with the accuracy increasing from 92% to 94%. I got the data from Kaggel.
 
 This project covers the whole process from problem statement to model development and evaluation:
 
